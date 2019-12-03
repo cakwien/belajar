@@ -15,7 +15,6 @@
         Baris Kelima <br>
         Baris Keenam<br>
         
-        Baris 7 <br>
         
         
         
