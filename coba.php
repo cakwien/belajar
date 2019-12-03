@@ -33,6 +33,9 @@
         Barisan <br>
         Barisan <br>
         
+        Baris 7 <br>
+        Baris 8 <br>
+        
         
         
         
