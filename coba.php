@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Coba</title>
+        <title>Coba Pull</title>
     </head>
     <body>
         Baris Pertama <br>
